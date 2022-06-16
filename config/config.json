@@ -1,15 +1,15 @@
 {
   "development": {
     "username": "root",
-    "password": "beefandpork080621",
+    "password": null,
     "database": "backendnode",
-    "port": 8111,
+    "port": 3306,
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "beefandpork080621",
+    "password": null,
     "database": "database_test",
     "port": 8111,
     "host": "127.0.0.1",
@@ -17,7 +17,7 @@
   },
   "production": {
     "username": "root",
-    "password": "beefandpork080621",
+    "password": null,
     "database": "database_production",
     "port": 8111,
     "host": "127.0.0.1",
